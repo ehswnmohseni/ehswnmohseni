@@ -15,7 +15,7 @@ Currently focusing on optimizing vision-based systems 🚀
 
 ## 🚀 Featured Projects
 
-### [License Plate Recognition]([https://www.asriran.com/fa/news/1041440/%D8%B1%D9%88%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF%E2%80%8C%D9%87%D8%A7%DB%8C-%D9%BE%D9%84%DB%8C%D8%B3-%D8%B1%D8%A7%D9%87%D9%88%D8%B1-%D9%81%DB%8C%D9%84%D9%85]).
+### [License Plate Recognition](https://www.asriran.com/fa/news/1041440/%D8%B1%D9%88%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF%E2%80%8C%D9%87%D8%A7%DB%8C-%D9%BE%D9%84%DB%8C%D8%B3-%D8%B1%D8%A7%D9%87%D9%88%D8%B1-%D9%81%DB%8C%D9%84%D9%85).
 🎯 91.3% accuracy on Iranian plates  
 🌐 Support for multiple plate formats
 🚀 0.05 FPS [realtime]
