@@ -16,11 +16,16 @@ Currently focusing on optimizing vision-based systems 🚀
 ## 🚀 Featured Projects
 
 ### [License Plate Recognition](https://www.asriran.com/fa/news/1041440/%D8%B1%D9%88%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF%E2%80%8C%D9%87%D8%A7%DB%8C-%D9%BE%D9%84%DB%8C%D8%B3-%D8%B1%D8%A7%D9%87%D9%88%D8%B1-%D9%81%DB%8C%D9%84%D9%85).
+
 🎯 91.3% accuracy on Iranian plates  
+
 🌐 Support for multiple plate formats
-🚀 0.05 FPS [realtime]
+
+🚀 0.05 FPS realtime
+
 🔝 Detection to 26m Altitude
-✅ Frame optimization techniques  
+
+✅ Frame optimization techniques
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ehsan-mohseni-05b9562a8/))
