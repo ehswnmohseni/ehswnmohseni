@@ -33,8 +33,8 @@ Currently focusing on optimizing vision-based systems 🚀
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehswnmohseni&show_icons=true&theme=radical)
 
-![Streak Stats](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
+![Streak Stats](https://streak-stats.demolab.com/?user=ehswnmohseni&theme=radical)
 
 ---
